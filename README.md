@@ -1,5 +1,5 @@
-# Chroma Code Syntax
-Adds a chroma effect to code blocks - ones with syntax highlighting.
+# Chroma Syntax Highlighting
+Adds a chroma effect to code blocks that support syntax highlighting.
 ```css
 @keyframes chroma {
     0% {color: red;}
